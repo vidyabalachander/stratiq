@@ -1,6 +1,6 @@
 # StratIQ — Venture Intelligence Platform
 
-> AI-powered platform for business scoring, data analysis, and investor-grade pitch deck generation.
+> AI-powered platform for business scoring, data analysis, and investor-grade pitch deck generation created by Vidya Balachander and Sumedha Komawar.
 
 ---
 
