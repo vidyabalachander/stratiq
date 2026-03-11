@@ -56,7 +56,7 @@ Each dimension uses a 4-tier band:
 
 ## Usage
 
-1. **Open** [https://bigwinter2026social.github.io/stratiq/](https://bigwinter2026social.github.io/stratiq/) in a browser
+1. **Open** [this link](https://vidyabalachander.github.io/stratiq/) in a browser
 3. Select between **Founder Mode** and **Investor Mode**
 4. Fill in the required information
 5. Click **Run StratIQ Analysis**
